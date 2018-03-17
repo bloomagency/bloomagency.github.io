@@ -1,1 +1,0 @@
-$(document).ready(function(){$("a.facebook").on("click",function(ev){_gaq.push(['_trackEvent','Outbound-Link','click','Facebook',0,true]);});$("a.twitter").on("click",function(ev){_gaq.push(['_trackEvent','Outbound-Link','click','Twitter',0,true]);});$("a.linkedin").on("click",function(ev){_gaq.push(['_trackEvent','Outbound-Link','click','LinkedIn',0,true]);});});
